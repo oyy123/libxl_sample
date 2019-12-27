@@ -1,0 +1,7 @@
+*.m linguist-language = c++
+*.cs linguist-language = c++
+*.js linguist-language = c++
+*.html linguist-language = c++
+*.dll linguist-language = c++
+*.lib linguist-language = c++
+*.png linguist-language = c++
